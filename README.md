@@ -32,6 +32,9 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 ## Preview
 
 Website preview of encoding results [Demo](https://sistim-pakar-diagnosa-jiwa.vercel.app/)
-<a href='https://sistim-pakar-diagnosa-jiwa.vercel.app/'>
-<img src="https://github.com/user-attachments/assets/2ed09c98-37eb-4333-8135-514f2007936e" alt="" width="500">
-</a>
+<div style="text-align: center;">
+  <a href="https://sistim-pakar-diagnosa-jiwa.vercel.app/">
+    <img src="https://github.com/user-attachments/assets/2ed09c98-37eb-4333-8135-514f2007936e" alt="Preview" width="500">
+  </a>
+</div>
+
