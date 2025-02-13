@@ -1,20 +1,20 @@
 ## 🔧 Fullstack Technology
- # Framework NextJS
-  # Fontend
+ ### Framework NextJS
+  #### Fontend
     ⚛️ React.js
     🌐 HTML & CSS
     🎨 Tailwind CSS
     📱 Mobile Responsive
 
-  # Backend
-   🟢 Node.js
-   🐘 Database PostgreSQL
-   🔗 Relational Database
-   💾 Data Storage
-   📊 Query & Analysis
-   ⚡ High Performance DB
-   🔍 Indexing & Search
-   🚀 Optimized Queries
+  #### Backend
+    🟢 Node.js
+    🐘 Database PostgreSQL
+    🔗 Relational Database
+    💾 Data Storage
+    📊 Query & Analysis
+    ⚡ High Performance DB
+    🔍 Indexing & Search
+    🚀 Optimized Queries
 
 
 ## Preview
