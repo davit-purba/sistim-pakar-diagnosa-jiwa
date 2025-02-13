@@ -33,3 +33,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 Website preview of coding results 
 [Link](https://sistim-pakar-diagnosa-jiwa.vercel.app/).
+![Screenshot (192)](https://github.com/user-attachments/assets/2ed09c98-37eb-4333-8135-514f2007936e)
