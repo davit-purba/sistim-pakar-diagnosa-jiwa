@@ -1,5 +1,5 @@
 ## 🔧 Technology
- ### Framework NextJS
+ ### Framework NEXTJS
   #### Fontend
    ⚛️ React.js
    🌐 HTML & CSS
