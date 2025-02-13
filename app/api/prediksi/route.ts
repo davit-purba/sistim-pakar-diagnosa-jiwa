@@ -1,7 +1,8 @@
 import prisma from "@/lib/prisma";
 import { NextRequest, NextResponse } from "next/server";
+import { cache } from "react";
 
-export async function GET(req: NextRequest) {
+export const GET = cache(async (req: NextRequest) => {
     try {
         const url = req.nextUrl;
         const key = url.searchParams.get('q');
@@ -30,4 +31,4 @@ export async function GET(req: NextRequest) {
         console.error("Error occurred while fetching predictions:", error);
         return NextResponse.json({ error: 'An error occurred while processing your request.' }, { status: 500 });
     }
-}
+})
