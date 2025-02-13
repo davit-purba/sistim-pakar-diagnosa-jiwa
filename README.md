@@ -8,7 +8,7 @@
 
   #### Backend
    🟢 Node.js
-   🛡️Security
+   🔒 Security
    🐘 Database PostgreSQL
    🔗 Relational Database
    💾 Data Storage
