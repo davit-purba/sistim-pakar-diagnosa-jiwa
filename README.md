@@ -31,6 +31,5 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## Preview
 
-Website preview of coding results 
-[Demo](https://github.com/user-attachments/assets/2ed09c98-37eb-4333-8135-514f2007936e)](https://sistim-pakar-diagnosa-jiwa.vercel.app/)
-
+Website preview of encoding results [Demo](https://sistim-pakar-diagnosa-jiwa.vercel.app/)
+<img src="https://github.com/user-attachments/assets/2ed09c98-37eb-4333-8135-514f2007936e" alt="Deskripsi Gambar" width="500">
